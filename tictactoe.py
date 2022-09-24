@@ -1,5 +1,5 @@
-Author: Joshue Sam Olivario
-Game: Tic-Tac-Toe
+"Author: Joshue Sam Olivario"
+"Game: Tic-Tac-Toe"
 
 def main():
     player = next_player("")
