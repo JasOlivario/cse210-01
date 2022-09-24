@@ -11,9 +11,9 @@ def main():
     print_board(board)
     winner = winning_player(board, player)
     if has_winner(board):
-        print (f"Congratulations! {winner} won!")
+        print (f"Congratulations! \"{winner}\" won!")
     elif is_draw(board):
-        print ("Draw, Thanks for playing!")
+        print ("It's a draw!")
 
 def create_board():
     board = []
